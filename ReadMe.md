@@ -1,4 +1,4 @@
-﻿# Simple not opinied ORM
+﻿# Simple not opinioned ORM
 
 ***When you have an old database with mismatch naming rules*** 
 
